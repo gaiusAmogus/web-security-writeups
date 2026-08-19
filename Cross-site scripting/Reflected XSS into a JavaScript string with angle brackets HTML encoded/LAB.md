@@ -46,7 +46,6 @@ An attacker can execute arbitrary JavaScript in the victim's browser, leading to
 
 ## Tools
 - Browser
-- DevTools
 
 ## Notes
 - Angle brackets HTML encoding does not prevent XSS in JavaScript contexts
