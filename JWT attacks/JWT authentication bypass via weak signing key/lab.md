@@ -38,7 +38,7 @@ You can log in to your own account using the following credentials: `wiener:pete
     ```text
     GET /admin/delete?username=carlos HTTP/2
     ```
-    Response `302 Found` — lab solved ✅
+    Response `302 Found` - lab solved
 
 
 ### Payload
